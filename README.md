@@ -1,2 +1,3 @@
-# Vectrex-Lightpen
-Lightpen with the integrated buttons
+# Vectrex lightpen with integrated buttons
+
+
