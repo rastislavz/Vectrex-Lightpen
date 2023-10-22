@@ -4,7 +4,7 @@
 
 # The construction details
 
-The building of this lightpen is a bit tedious process since it uses the refillable whiteboard marker instead some genuine build body.
+The building of this lightpen is a bit tedious process since it uses the refillable whiteboard marker (PILOT V-Board Master 5979) instead some genuine build body.
 The first step is to disembowel the marker guts: after the back is screwed open and the ink cartridge is taken out, the rest of the guts can be simply pulled out with the long nose pliers.
 The next step is drilling the holes for cable and for 4 microswitch buttons. To drill the button holes precisely, i found the best way ist to first apply the label with the precut button holes and to drill the holes after the label is applied. Since I had lots of labels made for the ordinary lightpen without precut holes, I have made the drill template (in svg directory) which I have printed out, overlaid with the label and than punched the holes with the leather holes puncher.
 
