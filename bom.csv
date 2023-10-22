@@ -1,0 +1,27 @@
+﻿Lightpen body;;;
+Ref;Qnt;Value;Name
+R1, R2;2;10k;resistor
+R3;1;2.2k;resistor
+C1;1;47uF;electrolytic capacitor
+C2;1;10nF;ceramic capacitor
+Q1;1;2N3904;transistor
+U1;1;74LS132;Schmitt NAND IC
+;1;;Sega male connector
+;1;;Body PCB
+;2;;Sega 9pin cable with feemale connector
+;3;;Cable tie
+;2;;Acrylic sheet top/bottom
+;4;6mm;M3 spacer post M+F
+;4;10mm;M3 spacer post F+F
+;4;5mm;M3 flat headed screw (bottom)
+;4;5mm;M3 round headed screw (top)
+;4;;rubber feet
+Lightpen;;;
+Ref;Qnt;Value;Name
+Q1;1;;"phototransistor 3mm; λp max: 940nm; 30V; 30°"
+H1, H2, H3, H4;4;7mm;microswitch
+;1;;PCB
+;1;;PILOT Board 5979 marker
+;1;30AWG;6 core cable
+;1;;pen label
+;1;3mm;strain relief
