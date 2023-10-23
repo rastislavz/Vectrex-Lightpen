@@ -1,6 +1,6 @@
 # Vectrex lightpen with integrated buttons
 
-![Lightpen1](https://github.com/rastislavz/Vectrex-Lightpen/assets/76251167/ea9eeb2e-9a6d-4a66-b298-c3a4d30d64f4)
+![Lightpen1](https://github.com/rastislavz/Vectrex-Lightpen/assets/76251167/36eb5a88-e7e6-4596-9772-a70f264800ad)
 
 # The construction details
 
