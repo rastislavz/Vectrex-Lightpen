@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Vectrex_Lightpen_Buttons.kicad_pro",
+    "filename": "Vectrex_Lightpen_Buttons_2c.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Vectrex_Lightpen_Buttons_2c.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

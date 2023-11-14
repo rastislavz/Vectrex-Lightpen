@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "Vectrex_Lightpen_2.dsn",
-      "step": "",
+      "step": "Vectrex_Lightpen_2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
